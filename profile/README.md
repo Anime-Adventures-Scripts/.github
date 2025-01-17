@@ -101,7 +101,7 @@ This project is intended for educational purposes only. We do not promote cheati
 
 ## Contact
 
-For any inquiries or feedback, feel free to contact the project maintainer at [your-email@example.com].
+For any inquiries or feedback, feel free to contact the project maintainer at [].
 
 ---
 
